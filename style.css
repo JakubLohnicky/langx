@@ -83,7 +83,7 @@ nav ul li a:active {
     min-height: 31.25rem;
     width: 100%;
     display: flex;
-    background-image: url(./Images/hero-section-background.jpeg);
+    background-image: url(hero-section-background.jpeg);
     background-position: center;
     justify-content: center;
     align-items: center;
